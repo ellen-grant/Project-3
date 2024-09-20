@@ -1,0 +1,4 @@
+Analyzing Cognitive Decline in the United States (US)
+
+We plan to use data from the CDC on Alzheimers and Healthy Aging to create a map of the US analyzing cognitive decline and different factors that might be associated with it. The factors we want to analyze include age, race/ethnicity, gender, and location. The idea to create a map that shows the density of people affected by cognitive decline and statistics by state and be able to filter by the factors listed. This will give us insight on who is or most likely is to be affected by cognitive decline in the US, and it can also give insight to see where the affected might be concentrated if any correlation is present. 
+
